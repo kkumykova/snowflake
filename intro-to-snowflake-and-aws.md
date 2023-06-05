@@ -5,4 +5,4 @@ A database stores the current data required to power an application whereas a da
 
 **What is a data-warehouse?**
 
-Snowflake - a cloud data warehouse. Other CDWs:BigQuery (Google Cloud), Redshift (Amazon Cloud)
+Snowflake - a cloud data warehouse. Other CDWs: BigQuery (Google Cloud), Redshift (Amazon Cloud)
