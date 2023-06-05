@@ -20,3 +20,4 @@ A data warehouse is a type of data management system used for the analysis and r
 ## Other Options
 - AWS Athena
 - Hadoop Hive
+
