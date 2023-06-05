@@ -4,4 +4,5 @@
 A database stores the current data required to power an application whereas a data warehouse stores current and historical data for one or more systems in a predefined and fixed schema for the purpose of analyzing the data.
 
 **What is a data-warehouse?**
+
 Snowflake - a cloud data warehouse. Other CDWs:BigQuery (Google Cloud), Redshift (Amazon Cloud)
